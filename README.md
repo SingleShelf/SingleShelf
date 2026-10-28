@@ -10,7 +10,7 @@ Privacy-first, ad-free gaming website that brings together:
 - Forums (paid)
 - Daily minigames (paid)
 
-**Aesthetic:** Frutiger Aero × Y2K — colorful, translucent, mid-90s to mid-2000s tech nostalgia.
+**Aesthetic:** Mid-90s to mid-2000s colorful, transparent technology.
 
 **Status:** Phase 0 — accounts and domain set up. Building the foundation.
 <!--
